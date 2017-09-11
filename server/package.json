@@ -1,0 +1,5 @@
+{
+  "browser": {
+    "hello.js": "hello.browser.js"
+  }
+}
